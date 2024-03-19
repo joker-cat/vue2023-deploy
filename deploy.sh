@@ -12,6 +12,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/TzuChingg/vue2023-deploy.git master:gh-pages
+git push -f https://github.com/joker-cat/vue2023-deploy.git master:gh-pages
 
 cd -
